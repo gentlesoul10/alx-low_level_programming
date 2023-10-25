@@ -49,7 +49,7 @@ tortoise = tortoise->next;
 hare = (hare->next)->next;
 }
 
- return (0);
+return (0);
 }
 
 /**
